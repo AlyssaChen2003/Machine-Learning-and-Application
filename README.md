@@ -1,6 +1,3 @@
-# machine learning
+# Machine Learning and Application
+Personal course work for NKU-COSC0028-Machine Learning and Application. WARNING: only for references;
 
-#### 介绍
-nku机器学习作业
-
-### 推荐打包下载后用vscode打开~
